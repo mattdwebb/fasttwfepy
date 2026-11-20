@@ -1,0 +1,13 @@
+Obtaining file:///<historical-local-path>/fasttwfepy
+  Checking if build backend supports build_editable: started
+  Checking if build backend supports build_editable: finished with status 'done'
+  Preparing editable metadata (pyproject.toml): started
+  Preparing editable metadata (pyproject.toml): finished with status 'done'
+Building wheels for collected packages: fasttwfepy
+  Building editable for fasttwfepy (pyproject.toml): started
+  Building editable for fasttwfepy (pyproject.toml): finished with status 'done'
+  Created wheel for fasttwfepy: filename=fasttwfepy-0.1.0-0.editable-py3-none-any.whl size=1258 sha256=8f2b741d2561029d297a50fdfadcad820ff860f2fbd052497cde04cba3d5c55c
+  Stored in directory: <historical-local-path>/c7e37bd0ab11ffe48f4c850e1c44a1c264e35acbd14198bdea
+Successfully built fasttwfepy
+Installing collected packages: fasttwfepy
+Successfully installed fasttwfepy-0.1.0

@@ -1,0 +1,9 @@
+{
+  "package": "fasttwfepy",
+  "estimate": 2.012598932298262,
+  "native_se": 0.36733881395237394,
+  "jackknife_se": 0.4012944734744234,
+  "jackknife_p": 0.0003929608140196728,
+  "clusters": 12,
+  "jackknife_df": 11
+}

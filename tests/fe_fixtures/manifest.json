@@ -1,0 +1,114 @@
+[
+  {
+    "name": "one",
+    "k": 1,
+    "n": 120,
+    "p": 1,
+    "max_iter": 10000,
+    "expected_converged": true
+  },
+  {
+    "name": "one_multiple",
+    "k": 1,
+    "n": 125,
+    "p": 5,
+    "max_iter": 10000,
+    "expected_converged": true
+  },
+  {
+    "name": "two_balanced",
+    "k": 2,
+    "n": 200,
+    "p": 5,
+    "max_iter": 10000,
+    "expected_converged": true
+  },
+  {
+    "name": "three",
+    "k": 3,
+    "n": 240,
+    "p": 5,
+    "max_iter": 10000,
+    "expected_converged": true
+  },
+  {
+    "name": "unequal",
+    "k": 2,
+    "n": 220,
+    "p": 5,
+    "max_iter": 10000,
+    "expected_converged": true
+  },
+  {
+    "name": "weighted",
+    "k": 2,
+    "n": 240,
+    "p": 5,
+    "max_iter": 10000,
+    "expected_converged": true
+  },
+  {
+    "name": "extreme_weights",
+    "k": 3,
+    "n": 300,
+    "p": 5,
+    "max_iter": 10000,
+    "expected_converged": true
+  },
+  {
+    "name": "singletons",
+    "k": 2,
+    "n": 100,
+    "p": 5,
+    "max_iter": 10000,
+    "expected_converged": true
+  },
+  {
+    "name": "disconnected",
+    "k": 2,
+    "n": 160,
+    "p": 5,
+    "max_iter": 10000,
+    "expected_converged": true
+  },
+  {
+    "name": "near_collinear",
+    "k": 2,
+    "n": 150,
+    "p": 3,
+    "max_iter": 10000,
+    "expected_converged": true
+  },
+  {
+    "name": "many_levels",
+    "k": 3,
+    "n": 450,
+    "p": 5,
+    "max_iter": 10000,
+    "expected_converged": true
+  },
+  {
+    "name": "shuffled_labels",
+    "k": 3,
+    "n": 240,
+    "p": 5,
+    "max_iter": 10000,
+    "expected_converged": true
+  },
+  {
+    "name": "pathological_chain",
+    "k": 2,
+    "n": 180,
+    "p": 3,
+    "max_iter": 10000,
+    "expected_converged": true
+  },
+  {
+    "name": "weak_bridge",
+    "k": 2,
+    "n": 201,
+    "p": 3,
+    "max_iter": 100,
+    "expected_converged": false
+  }
+]

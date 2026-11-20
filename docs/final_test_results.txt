@@ -1,0 +1,10 @@
+MAX_DELETE_GAP 1.765254609153999e-14
+test_enumeration_and_large_rank_sampling (test_inference.InferenceTests.test_enumeration_and_large_rank_sampling) ... ok
+test_fast_reference_point_deletions_t_and_relabeling (test_inference.InferenceTests.test_fast_reference_point_deletions_t_and_relabeling) ... ok
+test_fixed_ri_placebo_and_failures (test_inference.InferenceTests.test_fixed_ri_placebo_and_failures) ... ok
+test_known_additive_model (test_reference.ReferenceTest.test_known_additive_model) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.711s
+
+OK
